@@ -1,1 +1,1 @@
-After finishing it I will here describe what this project is.
+Some of my favorite foods/recipes.

@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.page1header {
+    color:rgb(197, 33, 4);
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+}
+div.page1container {
+    text-align: center;
+}
+ul.page1list {
+    display: inline-block;
+    text-align: left;
+    color:rgb(46, 5, 230);
+    font-size: 40px;
+}
