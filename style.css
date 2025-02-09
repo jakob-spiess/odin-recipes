@@ -1,5 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #bcc8ff;
 }
 .page1header {
     color:rgb(197, 33, 4);
@@ -13,6 +14,30 @@ div.page1container {
 ul.page1list {
     display: inline-block;
     text-align: left;
-    color:rgb(46, 5, 230);
+    color:rgb(24, 0, 133);
     font-size: 40px;
+}
+div.recipesOuterDiv {
+    width: 50%; /* or any fixed width */
+    margin: 0 auto;
+    font-size: 25px;
+}
+/*
+.topHeader {
+    color:rgb(197, 33, 4);
+    font-weight: 700;
+    font-size: 50px;
+}
+*/
+.lasagnaImage {
+    width: 400px;
+    height: auto;
+}
+.curryImage {
+    width: 400px;
+    height: auto;
+}
+.tacoImage {
+    width: 400px;
+    height: auto;
 }
